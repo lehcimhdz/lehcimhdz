@@ -2,7 +2,7 @@
 
 I'm a data and automation analyst passionate about technology and innovation. I have over three years of experience in data science, automation, artificial intelligence, and the development of tech solutions that have made a significant impact in the public sector.
 
-![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lehcimhdz&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lehcimhdz&theme=radical)
 
 I specialize in using tools like Python, JavaScript, SQL, and n8n to build efficient, scalable systems. My work has helped reduce manual workloads, improve service quality, and optimize operations in public institutions such as the Executive Commission for Victim Assistance (CEAVI) and the Legislative Agency Espacio Político in Mexico City.
 
