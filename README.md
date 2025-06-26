@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola, soy Michel Cano 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=radical)
 <!--
 **lehcimhdz/lehcimhdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
