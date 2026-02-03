@@ -22,7 +22,7 @@ I am a Software Engineer transitioning into Data Engineering and Applied Mathema
 * **B.S. Mathematics** | UnADM (In progress).
 * **B.A. International Relations** | UNAM (Quantitative analysis focus).
 * **Associate Data Scientist** | DataCamp (2025).
-* * **Python Data Associate** | DataCamp (2025).
+* **Python Data Associate** | DataCamp (2025).
 
 ---
 📫 **Contact:** bmichelcano@gmail.com | Azcapotzalco, CDMX
