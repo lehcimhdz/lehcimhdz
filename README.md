@@ -37,3 +37,7 @@ The combination of social science and engineering gives me an edge: I understand
 ---
 
 📫 bmichelcano@gmail.com
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehcimhdz&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
