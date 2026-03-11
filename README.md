@@ -1,28 +1,39 @@
 # Michel Cano
 
-**Software Engineer | Data Engineer** International Relations (UNAM) | Mathematics (UnADM)
+**Python Developer & Data Engineer** | Building production systems and open-source tools for Mexico's public sector
 
 ---
 
-### Professional Profile
-I am a Software Engineer transitioning into Data Engineering and Applied Mathematics, specializing in building scalable data administration and automation solutions. Currently, as Data Engineer at CEAV, I architect and manage sensitive data infrastructure for the Mexican public sector, bridging the gap between legacy processes and modern engineering.
+### What I Build
 
-### Current Projects & Focus
-* **System Architecture:** Designing and maintaining registries for sensitive data using **Python (Django)** and **PostgreSQL**.
-* **Data Engineering:** Building ETL pipelines and managing production environments via **Docker** on **Ubuntu Server**.
-* **Geospatial Intelligence:** Implementing spatial analysis with **GeoPandas** to identify patterns in disappearance data and optimize search efforts.
-* **Academic Development:** Formalizing my technical background with a B.S. in **Mathematics** (started Jan 2026).
+I'm a Python developer with 5 years of experience building production systems for government institutions in Mexico City. I specialize in automation, ETL pipelines, API development, and turning messy institutional processes into reliable software.
+
+**[legismex](https://github.com/lehcimhdz/legismex)** — Open-source Python library that provides programmatic access to Mexico's legislative information. 67 modules covering federal and state legislatures, built with httpx, Pydantic, async patterns, and Playwright. Published on PyPI with CI/CD via GitHub Actions, including a daily automated monitor that detects when government portals change. `pip install legismex`
+
+**Victim Registry System** — Full-stack system serving 500+ cases/year for the Mexico City Victims' Commission. Django REST API, PostgreSQL with field-level encryption, automated document generation (ODT → PDF), and Google APIs integration (Drive, Sheets, Gmail with OAuth2). Deployed with Docker and Nginx. Reduced processing time by 95%.
+
+**Government Document Automation** — End-to-end pipeline that generates legal agreements from templates, converts to PDF, uploads to Google Drive, syncs with Google Sheets, and creates pre-formatted email drafts via Gmail API. Processes 100+ documents monthly.
 
 ### Tech Stack
-* **Languages:** Python (Expert), SQL (PostgreSQL), R, JavaScript.
-* **Frameworks/Tools:** Django, Docker, Linux (Ubuntu Server/Kali), Git.
-* **Data Analysis:** Spatial analysis, data systematization, and interactive dashboards.
 
-### Education & Certifications
-* **B.S. Mathematics** | UnADM (In progress).
-* **B.A. International Relations** | UNAM (Quantitative analysis focus).
-* **Associate Data Scientist** | DataCamp (2025).
-* **Python Data Associate** | DataCamp (2025).
+**Languages:** Python, SQL (PostgreSQL), JavaScript
+
+**Backend:** Django REST Framework, Pydantic, httpx, Celery
+
+**Data:** pandas, ETL pipelines, data migration & validation
+
+**Infrastructure:** Docker, Nginx, GitHub Actions CI/CD, Linux
+
+**APIs:** Google APIs (Drive, Sheets, Gmail, Calendar), OAuth2, REST API design
+
+**Scraping:** BeautifulSoup, Playwright, async/await patterns
+
+### Background
+
+International Relations (UNAM) · Mathematics — in progress (UnADM)
+
+The combination of social science and engineering gives me an edge: I understand both the institutional context behind the data and the technical implementation to process it.
 
 ---
-📫 **Contact:** bmichelcano@gmail.com | Azcapotzalco, CDMX
+
+📫 bmichelcano@gmail.com
