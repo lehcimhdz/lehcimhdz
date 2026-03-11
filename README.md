@@ -41,3 +41,7 @@ The combination of social science and engineering gives me an edge: I understand
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehcimhdz&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehcimhdz&layout=compact&theme=dark&hide_border=true" alt="Top Lenguajes" />
+</div>
