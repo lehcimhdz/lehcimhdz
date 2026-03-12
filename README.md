@@ -1,6 +1,6 @@
 # Michel Cano
 
-**Python Developer & Data Engineer** | Building production systems and open-source tools for Mexico's public sector
+**Backend Developer (Python)** | Building production systems and open-source tools for Mexico's public sector
 
 ---
 
