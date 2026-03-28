@@ -1,6 +1,6 @@
 # Michel Cano
 
-** Python Developer & Data Engineer**
+**Python Developer & Data Engineer**
 
 4+ years building production systems, data pipelines, and open-source tools. Two libraries published on PyPI. 600+ automated tests across projects. Terraform on AWS. PySpark. FastAPI. Django. Airflow.
 
